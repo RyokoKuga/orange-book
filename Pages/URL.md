@@ -20,7 +20,7 @@
 ## Chapter8
 [Widget catalog](https://orangedatamining.com/widget-catalog/)  
 [YouTube (Orange Data Mining)](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)  
-[scikit-learn cheat-sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+[scikit-learn チートシート](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
 
 ## データセット
 本書で使用したデータセットのオリジナルデータは、以下のリンクから入手できます。
