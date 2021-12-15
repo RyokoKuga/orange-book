@@ -6,7 +6,7 @@
 <img src="images/cover.png" width="500">
 
 ## Amazon 製品ページ  
-※準備中：[紙書籍 (ソフトカバー)](https://www.amazon.co.jp/)  
+※準備中：[紙書籍 (ペーパーバック)](https://www.amazon.co.jp/)  
 [電子書籍 (Kindle)](https://www.amazon.co.jp/dp/B09NLMPR8W)  
 
 ※準備中：電子書籍版は、[楽天](https://www.rakuten.co.jp/)及び[BOOK☆WALKER](https://bookwalker.jp)でもご購入いただけます。  
