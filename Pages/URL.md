@@ -9,6 +9,8 @@
 ## Chapter2
 - [Orange](https://orangedatamining.com/)  
 - [Download archive](https://download.biolab.si/download/files/)  
+
+※) 本書と同じバージョンのOrangeは、以下のリンクから入手できます。  
 - Windowsインストーラー版： [Orange3-3.29.3-Miniconda-x86_64.exe](https://download.biolab.si/download/files/Orange3-3.29.3-Miniconda-x86_64.exe)  
 - Windowsポータブル版： [Orange3-3.29.3.zip](https://download.biolab.si/download/files/Orange3-3.29.3.zip)  
 - macOS： [Orange3-3.29.3-Python3.8.8.dmg](https://download.biolab.si/download/files/Orange3-3.29.3-Python3.8.8.dmg)  
