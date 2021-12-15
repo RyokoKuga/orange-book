@@ -12,6 +12,8 @@
 - Windowsインストーラー版： [Orange3-3.29.3-Miniconda-x86_64.exe](https://download.biolab.si/download/files/Orange3-3.29.3-Miniconda-x86_64.exe)  
 - Windowsポータブル版： [Orange3-3.29.3.zip](https://download.biolab.si/download/files/Orange3-3.29.3.zip)  
 - macOS： [Orange3-3.29.3-Python3.8.8.dmg](https://download.biolab.si/download/files/Orange3-3.29.3-Python3.8.8.dmg)  
+## Chapter7
+- [気象庁-過去の気象データ・ダウンロード](https://www.data.jma.go.jp/risk/obsdl/index.php)  
 
 ## Chapter8
 [Widget catalog](https://orangedatamining.com/widget-catalog/)  
