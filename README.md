@@ -6,10 +6,10 @@
 <img src="images/cover.png" width="500">
 
 ## Amazon 製品ページ  
-※準備中：[紙書籍 (ペーパーバック)](https://www.amazon.co.jp/)  
 [電子書籍 (Kindle)](https://www.amazon.co.jp/dp/B09NLMPR8W)  
+[紙書籍 (ペーパーバック)](https://www.amazon.co.jp/) ※準備中 (21'12/24より注文可)  
 
-※準備中：電子書籍版は、[楽天](https://www.rakuten.co.jp/)及び[BOOK☆WALKER](https://bookwalker.jp)でもご購入いただけます。  
+電子書籍版は、[楽天](https://a.r10.to/hwWD1Q)及び[BOOK☆WALKER](https://bookwalker.jp/de1172372b-f39a-4160-804d-91b9c4f9d558/?acode=1DRCLqyC)でもご購入いただけます。  
 
 ## 書籍紹介
 
