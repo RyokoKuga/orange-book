@@ -5,7 +5,7 @@
 <div align="left">
 <img src="images/cover.png" width="500">  
 
-**商品概要**  
+**特設サイト**  
  [https://nocode-ml.studio.site/](https://nocode-ml.studio.site/)  
 
 ## Amazon 製品ページ  
