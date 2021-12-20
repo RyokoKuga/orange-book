@@ -29,3 +29,8 @@
 - [アヤメの種類データ (C5_1_Iris.csv他)](https://archive.ics.uci.edu/ml/datasets/Iris)  
 - [卸売業者の顧客情報データ (C6_1_Wholesale.csv)](https://archive.ics.uci.edu/ml/datasets/wholesale+customers)  
 - [自転車レンタルデータ (C7_1_Bike.csv他) ](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)  
+
+本書では、主に[カリフォルニア大学アーバイン校](https://archive.ics.uci.edu/ml/index.php)が公開しているデータセットを使用しています。  
+
+その他にも、一般に公開されているデータセットを入手できるサイトは数多く存在します。例えば、国内では、[DATA GO JP](https://www.data.go.jp/)、[NIIデータリポジトリ](https://www.nii.ac.jp/dsc/idr/datalist.html)などが有名です。Googleのデータセット検索サービス「[Google Dataset Search](https://datasetsearch.research.google.com/)」を使って探してみるのも有効です。  
+
