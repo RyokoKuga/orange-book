@@ -32,5 +32,7 @@
 
 本書では、主に[カリフォルニア大学アーバイン校](https://archive.ics.uci.edu/ml/index.php)が公開しているデータセットを使用しています。  
 
-その他にも、一般に公開されているデータセットを入手できるサイトは数多く存在します。例えば、国内では、[DATA GO JP](https://www.data.go.jp/)、[NIIデータリポジトリ](https://www.nii.ac.jp/dsc/idr/datalist.html)などが有名です。Googleのデータセット検索サービス「[Google Dataset Search](https://datasetsearch.research.google.com/)」を使って探してみるのも有効です。  
+その他にも、一般に公開されているデータセットを入手できるサイトは数多く存在します。例えば、国内では「[DATA GO JP](https://www.data.go.jp/)」、「[NIIデータリポジトリ](https://www.nii.ac.jp/dsc/idr/datalist.html)」などが有名です。  
+
+Googleのデータセット検索サービス「[Google Dataset Search](https://datasetsearch.research.google.com/)」を使って探してみるのも有効です。  
 
