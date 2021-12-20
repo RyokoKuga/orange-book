@@ -56,6 +56,8 @@
 書籍の正誤表は、[こちら](./Pages/ERRATA.md)をご参照ください。  
 
 ## この本を共有
+本書が、より多くの方に楽しんでいただければ大変うれしく存じます。  
+
 [<img src="images/twitter.png" width="32">](https://twitter.com/intent/tweet?text=%23ノーコードではじめる機械学習%20%23機械学習%0Ahttps://nocode-ml.studio.site)
 &emsp;[<img src="images/facebook.png" width="32">](https://www.facebook.com/share.php?u=https://nocode-ml.studio.site)
 &emsp;[<img src="images/hatena.png" width="32">](https://b.hatena.ne.jp/entry/s/nocode-ml.studio.site)
