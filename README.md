@@ -6,7 +6,9 @@
 <img src="images/cover.png" width="500">  
 
 **特設サイト**  
- [https://nocode-ml.studio.site](https://nocode-ml.studio.site)  
+[https://nocode-ml.studio.site](https://nocode-ml.studio.site)  
+**紹介動画**  
+[https://youtu.be/JIxAzpiDjmM](https://youtu.be/JIxAzpiDjmM)  
 
 ## Amazon 製品ページ  
 [電子書籍 (Kindle)](https://www.amazon.co.jp/dp/B09NLMPR8W)  
